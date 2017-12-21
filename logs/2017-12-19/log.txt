@@ -1,0 +1,499 @@
+2017-12-19 01:44:16 [main] DEBUG  validation.Validation - Opening files for validation.
+2017-12-19 01:44:16 [main] DEBUG  validation.Validation - Validation completed, XML matches XSD
+2017-12-19 02:04:35 [main] DEBUG  validation.Validation - Opening files for validation.
+2017-12-19 02:04:35 [main] DEBUG  validation.Validation - Validation completed, XML matches XSD
+2017-12-19 02:04:35 [main] DEBUG  dom.ReaderDOM - Root element in XML file:tariffs
+2017-12-19 02:04:35 [main] DEBUG  dom.ReaderDOM - Now XML is loaded as Document in memory, convert it to TariffBonus object List.
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - End element is reached, adding TariffBonus object to list.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - End element is reached, adding TariffBonus object to list.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - End element is reached, adding TariffBonus object to list.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  sax.MyHandler - End element is reached, adding TariffBonus object to list.(SAX)
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:04:35 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:05:49 [main] DEBUG  validation.Validation - Opening files for validation.
+2017-12-19 02:05:49 [main] DEBUG  validation.Validation - Validation completed, XML matches XSD
+2017-12-19 02:05:49 [main] DEBUG  dom.ReaderDOM - Root element in XML file:tariffs
+2017-12-19 02:05:49 [main] DEBUG  dom.ReaderDOM - Now XML is loaded as Document in memory, convert it to TariffBonus object List.
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - End element is reached, adding TariffBonus object to list.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - End element is reached, adding TariffBonus object to list.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - End element is reached, adding TariffBonus object to list.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  sax.MyHandler - End element is reached, adding TariffBonus object to list.(SAX)
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:05:49 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:30:37 [main] DEBUG  validation.Validation - Opening files for validation.
+2017-12-19 02:30:37 [main] DEBUG  validation.Validation - Validation completed, XML matches XSD
+2017-12-19 02:30:37 [main] DEBUG  dom.ReaderDOM - Root element in XML file:tariffs
+2017-12-19 02:30:37 [main] DEBUG  dom.ReaderDOM - Now XML is loaded as Document in memory, convert it to TariffBonus object List.
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - End element is reached, adding TariffBonus object to list.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - End element is reached, adding TariffBonus object to list.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - End element is reached, adding TariffBonus object to list.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 02:30:37 [main] DEBUG  sax.MyHandler - End element is reached, adding TariffBonus object to list.(SAX)
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 02:30:38 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 16:06:02 [main] DEBUG  validation.Validation - Opening files for validation.
+2017-12-19 16:06:02 [main] DEBUG  validation.Validation - Validation completed, XML matches XSD
+2017-12-19 16:06:02 [main] DEBUG  dom.ReaderDOM - Root element in XML file:tariffs
+2017-12-19 16:06:02 [main] DEBUG  dom.ReaderDOM - Now XML is loaded as Document in memory, convert it to TariffBonus object List.
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - End element is reached, adding TariffBonus object to list.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - End element is reached, adding TariffBonus object to list.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - End element is reached, adding TariffBonus object to list.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  sax.MyHandler - End element is reached, adding TariffBonus object to list.(SAX)
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 16:06:02 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 17:03:12 [main] DEBUG  validation.Validation - Opening files for validation.
+2017-12-19 17:03:12 [main] DEBUG  validation.Validation - Validation completed, XML matches XSD
+2017-12-19 17:03:12 [main] DEBUG  dom.ReaderDOM - Root element in XML file:tariffs
+2017-12-19 17:03:12 [main] DEBUG  dom.ReaderDOM - Now XML is loaded as Document in memory, convert it to TariffBonus object List.
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - End element is reached, adding TariffBonus object to list.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - End element is reached, adding TariffBonus object to list.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - End element is reached, adding TariffBonus object to list.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  sax.MyHandler - End element is reached, adding TariffBonus object to list.(SAX)
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 17:03:12 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 18:26:04 [main] DEBUG  validation.Validation - Opening files for validation.
+2017-12-19 18:26:04 [main] DEBUG  validation.Validation - Validation completed, XML matches XSD
+2017-12-19 18:26:04 [main] DEBUG  dom.ReaderDOM - Root element in XML file:tariffs
+2017-12-19 18:26:04 [main] DEBUG  dom.ReaderDOM - Now XML is loaded as Document in memory, convert it to TariffBonus object List.
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - End element is reached, adding TariffBonus object to list.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - End element is reached, adding TariffBonus object to list.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - End element is reached, adding TariffBonus object to list.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - Take start element.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  sax.MyHandler - End element is reached, adding TariffBonus object to list.(SAX)
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - Take start element.
+2017-12-19 18:26:04 [main] DEBUG  stax.ReaderStAX - End element is reached, adding TariffBonus object to list.
